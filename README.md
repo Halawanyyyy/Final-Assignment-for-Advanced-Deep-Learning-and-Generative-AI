@@ -1,4 +1,4 @@
-# Final-Assignment-for-Advanced-Deep-Learning-and-Generative-AI
+# Hybrid QA System for AI & Data Science: BM25, MiniLM, and FLAN-T5”
 
 
 # 🔍 Hybrid AI/Data Science Q&A System
